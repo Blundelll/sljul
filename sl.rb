@@ -1,7 +1,7 @@
 class sljul < Formula
     desc "it changes the sl to a Danish christmas version   "
     homepage "https://github.com/Blundelll/sljul"
-    url "tbc"
+    url "https://github.com/Blundelll/sljul/releases/tag/test"
     sha256 "<SHA256>"
   
     def install
